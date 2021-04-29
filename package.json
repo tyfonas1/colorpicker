@@ -1,0 +1,16 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-to-rgba-matrix": "^1.0.0",
+    "png-js": "^1.0.0",
+    "replace-color": "^2.3.0"
+  }
+}
